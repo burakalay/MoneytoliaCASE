@@ -1,6 +1,8 @@
-# Merhaba, iş ilanınızda: 
+# Test Case 12: Add Products in Cart
 
--Appium, Selenium ve Java ile test otomasyonu konusunda deneyimli
+Merhaba,
+
+İş ilanınızda -Appium, Selenium ve Java ile test otomasyonu konusunda deneyimli
 -Behavior Driven Development (BDD) konusunda bilgi sahibi
 bir personel arayışında olduğunuzu belirttiğiniz için, basit bir Cucumber BDD frameworku oluşturup automation case'i Java ve Selenium ile kodladım. 
 
